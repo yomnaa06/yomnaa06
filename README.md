@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:REPLACE-ME@example.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-444?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ydhouib06@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-444?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
