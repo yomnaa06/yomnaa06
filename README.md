@@ -124,7 +124,7 @@ Git and GitHub workflows · containerization with Docker · deployment on Vercel
       Search, knowledge, uncertainty, optimization, machine learning, neural networks and language
     </td>
     <td valign="middle" align="center" width="45%">
-      <img src="https://img.shields.io/badge/Harvard%20CS50-AI%20with%20Python-A51C30?style=for-the-badge" alt="Harvard CS50 AI with Python" />
+      <img src="CS50AI (1).pdf" alt="Harvard CS50 AI with Python" />
     </td>
   </tr>
   <tr>
