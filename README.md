@@ -149,7 +149,7 @@ Git and GitHub workflows · containerization with Docker · deployment on Vercel
     <td valign="middle" align="center" width="45%">
       <img src="./datacamp-python-developer-associate.png" width="100" alt="DataCamp Python Developer Associate" />
       <img src="./DA Associate - badge with outline.png" width="100" alt="DataCamp Data Analyst Associate" />
-      <img src="./datacamp-python-data-associate.png" width="100" alt="DataCamp Python Data Associate" />
+      <img src="./Python Data Associate - Badge with outline.png" width="100" alt="DataCamp Python Data Associate" />
     </td>
   </tr>
 </table>
