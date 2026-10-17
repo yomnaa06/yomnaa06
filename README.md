@@ -43,7 +43,7 @@ An integration project in the Clinique Les Oliviers context, designed and develo
 
 </details>
 
-[Repository](https://github.com/yomnaa06/REPLACE-ME) · [Live demo](https://REPLACE-ME)
+[Repository](https://github.com/yomnaa06/Afya) · [Live demo](https://vercel.com/yomnaa06s-projects/afya)
 
 <br>
 
@@ -66,7 +66,7 @@ Internship project: digitalizing the B2B relationship for a car-parts distributo
 
 </details>
 
-[Repository](https://github.com/yomnaa06/REPLACE-ME) · [Live demo](https://REPLACE-ME)
+[Repository](https://github.com/yomnaa06/final_seghaier) · [Live demo](https://vercel.com/yomnaa06s-projects/seghaier_frontend)
 
 ---
 
