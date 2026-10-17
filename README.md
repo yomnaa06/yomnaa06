@@ -134,7 +134,7 @@ Git and GitHub workflows · containerization with Docker · deployment on Vercel
       Data Classification: classifying data with machine learning
     </td>
     <td valign="middle" align="center" width="45%">
-      <img src="./ibm-build-an-ai-agent.png" width="110" alt="IBM SkillsBuild: Build an AI Agent" />
+      <img src="./build-an-ai-agent.png" width="110" alt="IBM SkillsBuild: Build an AI Agent" />
       &nbsp;
       <img src="./ibm-data-classification.png" width="110" alt="IBM SkillsBuild: Data Classification" />
     </td>
