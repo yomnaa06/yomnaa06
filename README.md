@@ -136,7 +136,7 @@ Git and GitHub workflows · containerization with Docker · deployment on Vercel
     <td valign="middle" align="center" width="45%">
       <img src="./build-an-ai-agent.png" width="110" alt="IBM SkillsBuild: Build an AI Agent" />
       &nbsp;
-      <img src="./ibm-data-classification.png" width="110" alt="IBM SkillsBuild: Data Classification" />
+      <img src="./data-classification.png" width="110" alt="IBM SkillsBuild: Data Classification" />
     </td>
   </tr>
   <tr>
